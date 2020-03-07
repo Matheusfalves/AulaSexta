@@ -1,0 +1,14 @@
+h6{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 18px;
+    color:black;
+}
+l6{
+    color: aqua;
+    background-color: black;
+    font-style: sans-serif;
+    font-size: 40px;
+}
+button{
+    animation-name: initial;
+}
