@@ -1,5 +1,6 @@
 h6{
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    text-shadow: black;
     font-size: 18px;
     color:black;
 }
@@ -8,7 +9,9 @@ l6{
     background-color: black;
     font-style: sans-serif;
     font-size: 40px;
+    font-family: fantasy;
 }
 button{
     animation-name: initial;
+
 }
